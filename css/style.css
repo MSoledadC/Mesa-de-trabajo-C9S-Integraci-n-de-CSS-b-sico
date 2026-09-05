@@ -9,11 +9,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-main {
-    height: 80vh;
-
-}
-
 .top-nav {
     background-color: #1CD1B0;
     padding: 10px;
@@ -90,8 +85,6 @@ section {
     background-color: #F3F3F3;
     padding: 70px 16px 18px 16px;
     text-align: center;
-
-
 }
 
 .card-textos {
@@ -128,6 +121,8 @@ footer {
     background-color: #005677;
     color: #FFFFFF;
     padding: 20px;
+    width: 100%;
+    margin-top: 45px;
 }
 
 
